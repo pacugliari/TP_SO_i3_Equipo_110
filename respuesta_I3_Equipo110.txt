@@ -40,6 +40,7 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
 -git commit -m "Interaccion 3 Punto 7 Gamma"
 -git push
 
+ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
 -git pull
 -git checkout Acosta
