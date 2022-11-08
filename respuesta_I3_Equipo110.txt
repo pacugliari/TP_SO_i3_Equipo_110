@@ -1,3 +1,4 @@
+ALFA:Apellido:Méndez Nombre: Luca
 BETA: Apellido:Acosta	Nombre: Matias Jordan
 GAMMA:Apellido:Cugliari Nombre: Pablo Alberto
 
@@ -39,7 +40,14 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
 -git commit -m "Interaccion 3 Punto 7 Gamma"
 -git push
 
-
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+-git pull
+-git checkout Acosta
+-ipconfig.exe
+-ipconfig.exe >> beta.txt
+-git add .
+-git commit -m "Interaccion 3 punto 8 Alfa"
+-git push
 
 
 
