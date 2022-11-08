@@ -19,3 +19,31 @@ Adaptador de Ethernet VirtualBox Host-Only Network:
    Puerta de enlace predeterminada . . . . . : 
 
 Hora: 23:03
+
+Apellido: Cugliari Nombre: Pablo Alberto
+
+Configuraci好 IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec圩ico para la conexi好. . :
+
+Adaptador de Ethernet Ethernet 5:
+
+   Sufijo DNS espec圩ico para la conexi好. . :
+   V好culo: direcci好 IPv6 local. . . : fe80::29a1:565e:40c1:96fa%30
+   Direcci好 IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M存cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet 4:
+
+   Sufijo DNS espec圩ico para la conexi好. . :
+   V好culo: direcci好 IPv6 local. . . : fe80::c16c:b823:1231:3ee5%5
+   Direcci好 IPv4. . . . . . . . . . . . . . : 192.168.42.79
+   M存cara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.42.129
+
+Hora: 23:07
